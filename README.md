@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**bhxvish/bhxvish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -9,4 +8,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Full Stack Development and DSA ...
 - 👯 I’m looking to collaborate on web development projects ...
 - ⚡ Fun fact: Roses are red, and Violets are blue I don't know any fun facts...
--->
+
