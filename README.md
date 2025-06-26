@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhxvish" alt="bhxvish" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://reliable-pavlova-b2bd4d.netlify.app/](https://reliable-pavlova-b2bd4d.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sbhavish.netlify.app/](https://sbhavish.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
