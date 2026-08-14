@@ -24,7 +24,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```python
 class Bhavish:
@@ -62,35 +62,35 @@ me.say_hi()
 
 ---
 
-# 🚀 What I'm Building
+# What I'm Building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Engineering
+### AI Engineering
 
-- 🧠 AI Agents
-- 🔗 RAG Pipelines
-- 📚 Vector Databases
-- ⚡ LLM Applications
-- 🎯 Prompt Engineering
-- 🛠️ Tool Calling
-- 🔌 AI + APIs
+- AI Agents
+- RAG Pipelines
+- Vector Databases
+- LLM Applications
+- Prompt Engineering
+- Tool Calling
+- AI + APIs
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💻 Software Engineering
+### Software Engineering
 
-- 🐍 Python / FastAPI
-- ☕ Java
-- ⚛️ React / TypeScript
-- 🟢 Node.js / Express
-- 🗄️ SQL / MongoDB
-- 🧪 JUnit & Testing
-- 🐳 Docker & Git
+- Python / FastAPI
+- Java
+- React / TypeScript
+- Node.js / Express
+- SQL / MongoDB
+- JUnit & Testing
+- Docker & Git
 
 </td>
 </tr>
@@ -98,7 +98,7 @@ me.say_hi()
 
 ---
 
-# 🧠 Tech Arsenal
+# Tech Arsenal
 
 ### Languages
 
@@ -129,24 +129,8 @@ me.say_hi()
 
 ---
 
-# 🔥 Featured Projects
 
-<div align="center">
-
-| Project | What it does | Tech |
-|:---:|:---|:---:|
-| 🤖 **AI Front Desk Agent** | AI-powered WhatsApp automation with tool calling, availability checking, booking & escalation | `Python` `FastAPI` `Groq` `SQLite` `Twilio` |
-| 🧠 **MediMind** | Intelligent medical information platform using NLP & biomedical data | `React` `TypeScript` `Node.js` `TF-IDF` `PubMed API` |
-| 🎵 **Mood Music Recommender** | Detects facial emotion and recommends music based on mood | `Python` `CNN` `OpenCV` `Streamlit` |
-| 🏠 **CareerWay** | AI-assisted career guidance platform for students | `AI/ML` `Python` `Web` |
-| 📊 **Financial Market Dashboard** | Real-time market monitoring and news sentiment visualization | `Python` `Streamlit` `yFinance` |
-| 🔐 **Password Manager** | Full-stack password management application | `MERN` `MongoDB` `React` |
-
-</div>
-
----
-
-# 🤖 Currently Exploring
+# Currently Exploring
 
 <div align="center">
 
@@ -169,14 +153,14 @@ me.say_hi()
                │              │              │
                └──────────────┼──────────────┘
                               ▼
-                       Real Applications 🚀
+                       Real Applications 
 ```
 
 </div>
 
 ---
 
-# 📊 Contribution Graph
+# Contribution Graph
 
 <div align="center">
 
@@ -186,7 +170,7 @@ me.say_hi()
 
 ---
 
-# 🐍 My Contributions
+# My Contributions
 
 <div align="center">
 
@@ -198,31 +182,10 @@ me.say_hi()
 
 </div>
 
----
-
-# 🎯 2026 → 2027 Mission
-
-```text
-DSA                  ███████████░░░░  → Interview Ready
-AI / ML              ████████████░░░  → Advanced
-AI Agents            ██████████░░░░░  → Production Level
-Full Stack           ██████████░░░░░  → Strong
-System Design        ██████░░░░░░░░░  → Learning
-Open Source          ████░░░░░░░░░░░  → Starting
-```
-
-### My current priorities
-
-- 🧩 Master **Data Structures & Algorithms**
-- 🤖 Build more **production-grade AI applications**
-- 🧠 Go deeper into **LLMs, RAG & AI Agents**
-- 💻 Become stronger at **backend engineering**
-- 🌎 Contribute to **open source**
-- 🚀 Land a strong **Software / AI / ML internship**
 
 ---
 
-# 💡 My Developer Philosophy
+# My Developer Philosophy
 
 <div align="center">
 
@@ -236,27 +199,8 @@ Open Source          ████░░░░░░░░░░░  → Starting
 
 ---
 
-# 📚 DSA Journey
 
-<div align="center">
-
-### Currently working through **NeetCode 150**
-
-`Arrays` → `Two Pointers` → `Sliding Window` → `Stack`
-
-↓
-
-`Binary Search` → `Linked List` → `Trees` → `Tries`
-
-↓
-
-`Heap` → `Backtracking` → `Graphs` → `Dynamic Programming`
-
-</div>
-
----
-
-# 🌐 Let's Connect
+# Let's Connect
 
 <div align="center">
 
